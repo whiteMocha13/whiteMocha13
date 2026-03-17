@@ -1,4 +1,4 @@
-#  Welcome to the Construct, I'm Bera!
+#  Welcome to the Construct
 
 
 ###  Who am I? 
