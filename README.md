@@ -1,7 +1,7 @@
-# 🕶️ Welcome to the Construct, I'm Bera!
+#  Welcome to the Construct, I'm Bera!
 
 
-### 👨‍💻 Master of Repos
+###  Who am I? 
 I'm wm13, dedicated to move forward just a little bit everyday. Consistency beats stillness, and I'm a big believer of that saying. 
 
 Currently working on different projects, which requires different skillsets. I'm trying to better myself at a lot of fields. This ranges from embedded systems to frontend development. 
