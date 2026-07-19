@@ -1,4 +1,3 @@
-```markdown
 # Bera Çakıcı
 
 Engineer. Focused on embedded systems and web API development.
@@ -22,4 +21,4 @@ Engineer. Focused on embedded systems and web API development.
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beracakici)
-```
+
